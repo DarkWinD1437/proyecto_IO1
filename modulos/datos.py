@@ -1,5 +1,3 @@
-# modules/data.py
-
 # Datos de aulas por piso
 AULAS = {
     # Primer Piso

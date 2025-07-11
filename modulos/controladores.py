@@ -1,4 +1,3 @@
-# modules/controllers.py
 from tkinter import messagebox
 from .modelos import AsignacionModel
 from .datos import GRUPOS, AULAS, BLOQUES_HORARIOS

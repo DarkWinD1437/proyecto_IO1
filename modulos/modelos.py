@@ -1,4 +1,3 @@
-# modules/models.py
 from pulp import LpProblem, LpMaximize, LpVariable, lpSum, LpBinary, LpContinuous
 from .datos import AULAS, GRUPOS, BLOQUES_HORARIOS
 

@@ -1,4 +1,3 @@
-# modules/views.py
 import tkinter as tk
 from tkinter import ttk
 from .datos import GRUPOS, AULAS, BLOQUES_HORARIOS
